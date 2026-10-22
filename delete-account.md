@@ -3,7 +3,7 @@ title: Delete your Offshift account
 ---
 # Delete your Offshift account
 
-This page is for **Offshift – Roster & Shift Planner**. You only have an Offshift account if you signed in (with Google or an email code). Without one, we hold nothing about you, and uninstalling the app removes everything on your phone.
+This page is for **Offshift – Shift Work Planner**. You only have an Offshift account if you signed in (with Google or an email code). Without one, we hold nothing about you, and uninstalling the app removes everything on your phone.
 
 ## Option 1: in the app
 
