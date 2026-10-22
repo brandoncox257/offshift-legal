@@ -1,9 +1,6 @@
 ---
 title: Delete your Offshift account
 ---
-
-<!-- DRAFT for Brandon's review. Not legal advice. Replace [PLACEHOLDER]s, then delete this comment. Play Console asks for this page's URL; it must name the app and say how to request deletion and what is deleted or kept. -->
-
 # Delete your Offshift account
 
 This page is for **Offshift – Roster & Shift Planner**. You only have an Offshift account if you signed in (with Google or an email code). Without one, we hold nothing about you, and uninstalling the app removes everything on your phone.
