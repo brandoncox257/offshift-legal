@@ -1,18 +1,9 @@
 ---
 title: Offshift privacy policy
 ---
-
-<!--
-DRAFT for Brandon's review. Not legal advice. Before publishing:
- 1. Replace every [PLACEHOLDER] (your name/ABN if any, dates). The contact email is support@offshift.info.
- 2. Resolve every "CHECK:" note against the live setup, then delete the note.
- 3. Read it end to end. Everything in it must be true of the app you ship.
-Delete this comment block when publishing.
--->
-
 # Offshift privacy policy
 
-**Last updated:** [PLACEHOLDER: date]
+**Last updated:** 22.10.2026
 
 Offshift is a roster and shift-planning app for shift workers, made by Brandon Cox, Brisbane, Queensland, Australia ("we", "us"). This policy explains what information the app handles, who it goes to and how to have it deleted. We follow the Australian Privacy Principles in the *Privacy Act 1988* (Cth).
 
